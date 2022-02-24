@@ -52,6 +52,8 @@ python2 sh-all.py
 *   Passwords : DARKCYBER
 
 ONLY 6 DIGIT PASSWORD ARE DIFFERENT 
+USER NAME : DarkCyber
+Passwords : SHaNtO
 
 ## ***Follow Me***
 
